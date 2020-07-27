@@ -1,4 +1,4 @@
-WAGE PREDICTOR
+Wage Predictor
 ==============
 VIDEO LINK: https://photos.app.goo.gl/VJ6oWVugFbgz1XhAA
 
